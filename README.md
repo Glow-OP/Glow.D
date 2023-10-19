@@ -68,8 +68,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matrix-tyler&theme=black-ice"
     alt="matrix-tyler" /></p>
-
-<br />
-
-<a href="https://github.com/Matrix-Tyler"><img alt="Matrix-Tyler's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=Matrix-Tyler&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
