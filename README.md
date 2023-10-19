@@ -72,4 +72,4 @@
 <br />
 
 <a href="https://github.com/Matrix-Tyler"><img alt="Matrix-Tyler's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=Matrix-Tylet&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    src="https://activity-graph.herokuapp.com/graph?username=Matrix-Tyler&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
