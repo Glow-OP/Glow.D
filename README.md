@@ -68,7 +68,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matrix-tyler&theme=black-ice"
     alt="matrix-tyler" /></p>
-
-<p>
-    src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix-Tyler&langs_count=8&show_icons=true&hide_border=true&count_private=true&theme=dark&include_all_commits=true&show_owner=true)](https://github.com/Matrix-Tyler)
-</p>
