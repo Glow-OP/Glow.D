@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-    width="30px" height="30px">, I'm Tyler</h1>
+    width="30px" height="30px">, I'm Glow.D</h1>
 <h3 align="center">A passionate backend developer and CyberSecurity Enthusiast</h3>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
@@ -52,19 +52,19 @@
 
 <h2 align="center">🏆 Github Trophies</h2>
 <img align="center"
-  src="https://github-profile-trophy.vercel.app/?username=Matrix-Tyler&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
+  src="https://github-profile-trophy.vercel.app/?username=Glow-OP&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
   width="100%" />
 <br />
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/Matrix-Tyler?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/Matrix-Tyler?tab=followers"><img align="right" src="https://img.shields.io/github/followers/Matrix-Tyler?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/Matrix-Tyler">  <img align="right" src="https://komarev.com/ghpvc/?username=Matrix-Tyler"></a>
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/Glow-OP?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/Glow-OP?tab=followers"><img align="right" src="https://img.shields.io/github/followers/Glow-OP?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/Glow-OP">  <img align="right" src="https://komarev.com/ghpvc/?username"Glow-OP"></a>
 
 <p>
   <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix-Tyker&langs_count=8&theme=react" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glow-OP&langs_count=8&theme=react" />
 </p>
 
-<a href="https://github.com/Matrix-Tyler"><img alt="Matrix-Tyler's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Matrix-Tyler&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+<a href="https://github.com/Glow-OP"><img alt="Glow.D's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Glow-OP&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matrix-tyler&theme=black-ice"
-    alt="matrix-tyler" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Glow-OP&theme=black-ice"
+    alt="Glow.D" /></p>
