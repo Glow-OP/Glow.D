@@ -56,7 +56,7 @@
   width="100%" />
 <br />
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/Glow-OP?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/Glow-OP?tab=followers"><img align="right" src="https://img.shields.io/github/followers/Glow-OP?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/Glow-OP">  <img align="right" src="https://komarev.com/ghpvc/?username"Glow-OP"></a>
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/Glow-OP?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/Glow-OP?tab=followers"><img align="right" src="https://img.shields.io/github/followers/Glow-OP?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/Glow-OP">  <img align="right" src="https://komarev.com/ghpvc/?username=Glow-OP"></a>
 
 <p>
   <img align="right"
